@@ -1,0 +1,13 @@
+{
+	"name": "feba plugin",
+	"author": "feba66",
+	"version": "1",
+	"minVersion": "1.13.17 beta 100",
+	"supportedVersion": "1.13.17 beta 100",
+	"features": [
+		"eu.darkbot.popcorn.def.SampleModule",
+		"feba66.tasks.Auction"
+	],
+	"download": "https://github.com/feba66/FebaPlugin/blob/main/FebaPlugin.jar?raw=true",
+	"update": "https://gist.githubusercontent.com/feba66/c00a9e4e4b7f84de7be15bd7f0c8373e/raw/d667c3909cfbc21f2b7e7b76a0cfb02f3c90f5c2/plugin.json"
+}
