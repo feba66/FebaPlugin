@@ -5,7 +5,7 @@
 	"minVersion": "1.13.17 beta 100",
 	"supportedVersion": "1.13.17 beta 100",
 	"features": [
-		"feba66.def.SampleModule"
+		"feba66.def.FebaModule"
 	],
 	"download": "https://raw.githubusercontent.com/feba66/FebaPlugin/main/FebaPlugin.jar",
 	"update": "https://raw.githubusercontent.com/feba66/FebaPlugin/main/plugin.json"
