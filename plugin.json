@@ -1,11 +1,11 @@
 {
 	"name": "feba plugin",
 	"author": "feba66",
-	"version": "1",
-	"minVersion": "1.13.17 beta 100",
-	"supportedVersion": "1.13.17 beta 100",
+	"version": "1.1",
+	"minVersion": "1.13.17 beta 105",
+	"supportedVersion": "1.13.17 beta 105",
 	"features": [
-		"feba66.def.FebaModule"
+		"feba66.auction.Auction"
 	],
 	"download": "https://raw.githubusercontent.com/feba66/FebaPlugin/main/FebaPlugin.jar",
 	"update": "https://raw.githubusercontent.com/feba66/FebaPlugin/main/plugin.json"
